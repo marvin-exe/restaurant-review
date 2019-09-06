@@ -1,6 +1,6 @@
 # Restaurant Review App
 
-##Content
+## Content
 - [Description](#description)
 - [Run the app](#run-the-app)
 - [Dependencies](#dependancies)
