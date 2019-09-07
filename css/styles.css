@@ -12,6 +12,11 @@ body {
 	margin: 0;
 	position:relative;
 }
+
+html, body {
+	overflow-x: hidden;
+}
+
 ul, li {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1em;
